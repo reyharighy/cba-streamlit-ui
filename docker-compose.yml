@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  streamlit:
+    build:
+      context: .
+      args:
+        STREAMLIT_PORT: ${STREAMLIT_PORT}
+        WORKDIR_PATH: ${WORKDIR_PATH}
+    env_file:
+      - .env
+    ports:
+      - "${STREAMLIT_PORT}:${STREAMLIT_PORT}"
+    volumes:
+      - './:${WORKDIR_PATH}'
+    networks:
+      - cba-agentic-ai_net-system
+
+networks:
+  cba-agentic-ai_net-system:
+    external: true
