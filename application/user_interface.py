@@ -24,10 +24,10 @@ from infographic import infographic_dir_path
 
 load_dotenv()
 
-AGENT_API_URL: str | None = os.getenv("AGENT_API_URL", None)
+AGENT_API_BASE_URL: str | None = os.getenv("AGENT_API_BASE_URL", None)
 
-if AGENT_API_URL is None:
-    raise ValueError("AGENT_API_URL is not set in the environment variables.")
+if AGENT_API_BASE_URL is None:
+    raise ValueError("AGENT_API_BASE_URL is not set in the environment variables.")
 
 class ChatHistory(BaseModel):
     """
@@ -78,7 +78,7 @@ class UserInterface:
         """
         Displays the chat history from the memory manager.
         """
-        chat_history: list[dict[str, Any]] = requests.get(f"{AGENT_API_URL}/chat/history").json()
+        chat_history: list[dict[str, Any]] = requests.get(f"{AGENT_API_BASE_URL}/chat/history").json()
 
         self.session_memory.turn_num = max(ChatHistory.model_validate(chat).turn_num for chat in chat_history) if chat_history else 0
 
@@ -166,7 +166,7 @@ class UserInterface:
         stream_placeholder: DeltaGenerator = status_box.empty()
 
         with requests.post(
-            f"{AGENT_API_URL}/agent/stream",
+            f"{AGENT_API_BASE_URL}/agent/stream",
             json={"input": self.session_memory.chat_input},
             stream=True,
         ) as response:

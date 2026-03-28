@@ -1,0 +1,169 @@
+hour_of_day,payment_type,net_price,coffee_name,time_of_day,day_name,is_weekend,month_name,day_sort,month_sort,created_at
+10,card,28.9,Americano,Morning,Mon,False,Apr,1,4,2024-04-01 10:28:47
+10,card,33.8,Americano with Milk,Morning,Mon,False,Apr,1,4,2024-04-01 10:29:42
+10,card,33.8,Americano with Milk,Morning,Mon,False,Apr,1,4,2024-04-01 10:30:43
+11,card,33.8,Americano with Milk,Morning,Mon,False,Apr,1,4,2024-04-01 11:15:43
+18,card,33.8,Americano with Milk,Night,Mon,False,Apr,1,4,2024-04-01 18:18:42
+18,card,38.7,Hot Chocolate,Night,Mon,False,Apr,1,4,2024-04-01 18:45:27
+10,card,38.7,Latte,Morning,Tue,False,Apr,2,4,2024-04-02 10:01:14
+16,card,28.9,Americano,Afternoon,Tue,False,Apr,2,4,2024-04-02 16:18:34
+16,card,28.9,Cortado,Afternoon,Tue,False,Apr,2,4,2024-04-02 16:19:28
+10,card,28.9,Cortado,Morning,Wed,False,Apr,3,4,2024-04-03 10:19:13
+10,card,28.9,Americano,Morning,Wed,False,Apr,3,4,2024-04-03 10:20:07
+13,card,38.7,Cappuccino,Afternoon,Wed,False,Apr,3,4,2024-04-03 13:12:05
+10,card,38.7,Latte,Morning,Thu,False,Apr,4,4,2024-04-04 10:44:55
+11,card,38.7,Latte,Morning,Thu,False,Apr,4,4,2024-04-04 11:26:38
+11,card,38.7,Cappuccino,Morning,Thu,False,Apr,4,4,2024-04-04 11:27:48
+12,card,28.9,Cortado,Afternoon,Thu,False,Apr,4,4,2024-04-04 12:23:02
+10,card,28.9,Americano,Morning,Fri,False,Apr,5,4,2024-04-05 10:40:42
+10,card,28.9,Americano,Morning,Fri,False,Apr,5,4,2024-04-05 10:42:06
+11,card,28.9,Cortado,Morning,Fri,False,Apr,5,4,2024-04-05 11:06:14
+12,card,33.8,Americano with Milk,Afternoon,Fri,False,Apr,5,4,2024-04-05 12:14:27
+14,card,38.7,Latte,Afternoon,Fri,False,Apr,5,4,2024-04-05 14:23:40
+14,card,28.9,Cortado,Afternoon,Fri,False,Apr,5,4,2024-04-05 14:24:50
+16,card,24.0,Espresso,Afternoon,Fri,False,Apr,5,4,2024-04-05 16:18:23
+12,card,33.8,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-06 12:32:31
+14,card,38.7,Cappuccino,Afternoon,Sat,True,Apr,6,4,2024-04-06 14:13:18
+14,card,28.9,Americano,Afternoon,Sat,True,Apr,6,4,2024-04-06 14:14:27
+14,card,38.7,Latte,Afternoon,Sat,True,Apr,6,4,2024-04-06 14:49:50
+10,card,38.7,Latte,Morning,Sun,True,Apr,7,4,2024-04-07 10:12:53
+12,card,38.7,Cappuccino,Afternoon,Sun,True,Apr,7,4,2024-04-07 12:44:31
+12,card,38.7,Cappuccino,Afternoon,Sun,True,Apr,7,4,2024-04-07 12:46:05
+14,card,28.9,Cortado,Afternoon,Sun,True,Apr,7,4,2024-04-07 14:16:24
+14,card,24.0,Espresso,Afternoon,Sun,True,Apr,7,4,2024-04-07 14:17:30
+18,card,38.7,Hot Chocolate,Night,Sun,True,Apr,7,4,2024-04-07 18:01:16
+18,card,33.8,Americano with Milk,Night,Sun,True,Apr,7,4,2024-04-07 18:02:03
+10,card,33.8,Americano with Milk,Morning,Mon,False,Apr,1,4,2024-04-08 10:58:21
+10,card,38.7,Cappuccino,Morning,Mon,False,Apr,1,4,2024-04-08 10:59:27
+11,card,28.9,Americano,Morning,Mon,False,Apr,1,4,2024-04-08 11:01:20
+11,card,38.7,Cappuccino,Morning,Mon,False,Apr,1,4,2024-04-08 11:04:47
+16,card,38.7,Latte,Afternoon,Mon,False,Apr,1,4,2024-04-08 16:41:37
+18,card,28.9,Americano,Night,Mon,False,Apr,1,4,2024-04-08 18:18:09
+19,card,33.8,Americano with Milk,Night,Mon,False,Apr,1,4,2024-04-08 19:22:27
+19,card,38.7,Cappuccino,Night,Mon,False,Apr,1,4,2024-04-08 19:23:59
+11,card,38.7,Latte,Morning,Tue,False,Apr,2,4,2024-04-09 11:42:28
+15,card,38.7,Hot Chocolate,Afternoon,Tue,False,Apr,2,4,2024-04-09 15:11:48
+17,card,38.7,Hot Chocolate,Night,Tue,False,Apr,2,4,2024-04-09 17:25:23
+17,card,24.0,Espresso,Night,Wed,False,Apr,3,4,2024-04-10 17:55:31
+18,card,38.7,Cappuccino,Night,Wed,False,Apr,3,4,2024-04-10 18:24:59
+20,card,38.7,Latte,Night,Wed,False,Apr,3,4,2024-04-10 20:04:05
+10,card,28.9,Americano,Morning,Thu,False,Apr,4,4,2024-04-11 10:41:23
+10,card,28.9,Americano,Morning,Thu,False,Apr,4,4,2024-04-11 10:42:59
+16,card,38.7,Latte,Afternoon,Thu,False,Apr,4,4,2024-04-11 16:35:23
+19,card,38.7,Cappuccino,Night,Thu,False,Apr,4,4,2024-04-11 19:16:56
+19,card,33.8,Americano with Milk,Night,Thu,False,Apr,4,4,2024-04-11 19:18:36
+19,card,38.7,Hot Chocolate,Night,Fri,False,Apr,5,4,2024-04-12 19:03:43
+19,card,28.9,Cortado,Night,Fri,False,Apr,5,4,2024-04-12 19:38:23
+12,card,38.7,Latte,Afternoon,Sat,True,Apr,6,4,2024-04-13 12:29:19
+12,card,28.9,Americano,Afternoon,Sat,True,Apr,6,4,2024-04-13 12:43:02
+16,card,38.7,Cappuccino,Afternoon,Sat,True,Apr,6,4,2024-04-13 16:18:03
+16,card,38.7,Latte,Afternoon,Sat,True,Apr,6,4,2024-04-13 16:19:39
+17,card,38.7,Cappuccino,Night,Sat,True,Apr,6,4,2024-04-13 17:51:26
+17,card,38.7,Cappuccino,Night,Sat,True,Apr,6,4,2024-04-13 17:53:19
+12,card,38.7,Cappuccino,Afternoon,Sun,True,Apr,7,4,2024-04-14 12:24:39
+13,card,28.9,Cortado,Afternoon,Sun,True,Apr,7,4,2024-04-14 13:21:49
+14,card,28.9,Americano,Afternoon,Sun,True,Apr,7,4,2024-04-14 14:23:31
+14,card,28.9,Americano,Afternoon,Sun,True,Apr,7,4,2024-04-14 14:24:26
+14,card,28.9,Americano,Afternoon,Sun,True,Apr,7,4,2024-04-14 14:25:18
+15,card,38.7,Cappuccino,Afternoon,Sun,True,Apr,7,4,2024-04-14 15:46:27
+16,card,28.9,Cortado,Afternoon,Sun,True,Apr,7,4,2024-04-14 16:59:54
+17,card,38.7,Latte,Night,Sun,True,Apr,7,4,2024-04-14 17:00:45
+18,card,38.7,Cappuccino,Night,Sun,True,Apr,7,4,2024-04-14 18:38:19
+11,card,28.9,Americano,Morning,Mon,False,Apr,1,4,2024-04-15 11:45:24
+17,card,28.9,Americano,Night,Mon,False,Apr,1,4,2024-04-15 17:01:46
+17,card,33.8,Americano with Milk,Night,Mon,False,Apr,1,4,2024-04-15 17:02:49
+19,card,33.8,Americano with Milk,Night,Mon,False,Apr,1,4,2024-04-15 19:33:03
+10,card,33.8,Americano with Milk,Morning,Tue,False,Apr,2,4,2024-04-16 10:46:25
+12,card,38.7,Cocoa,Afternoon,Tue,False,Apr,2,4,2024-04-16 12:40:47
+12,card,28.9,Cortado,Afternoon,Tue,False,Apr,2,4,2024-04-16 12:52:07
+15,card,28.9,Americano,Afternoon,Tue,False,Apr,2,4,2024-04-16 15:03:16
+17,card,33.8,Americano with Milk,Night,Tue,False,Apr,2,4,2024-04-16 17:42:04
+17,card,38.7,Cappuccino,Night,Tue,False,Apr,2,4,2024-04-16 17:43:22
+18,card,38.7,Cocoa,Night,Tue,False,Apr,2,4,2024-04-16 18:09:05
+13,card,28.9,Americano,Afternoon,Wed,False,Apr,3,4,2024-04-17 13:32:59
+13,card,24.0,Espresso,Afternoon,Wed,False,Apr,3,4,2024-04-17 13:44:00
+17,card,38.7,Cappuccino,Night,Wed,False,Apr,3,4,2024-04-17 17:01:35
+17,card,38.7,Cappuccino,Night,Wed,False,Apr,3,4,2024-04-17 17:02:40
+18,card,28.9,Cortado,Night,Wed,False,Apr,3,4,2024-04-17 18:14:03
+11,card,28.9,Americano,Morning,Thu,False,Apr,4,4,2024-04-18 11:19:01
+11,card,28.9,Americano,Morning,Thu,False,Apr,4,4,2024-04-18 11:20:05
+13,card,33.8,Americano with Milk,Afternoon,Thu,False,Apr,4,4,2024-04-18 13:49:12
+13,card,28.9,Cortado,Afternoon,Thu,False,Apr,4,4,2024-04-18 13:50:17
+14,card,38.7,Cappuccino,Afternoon,Thu,False,Apr,4,4,2024-04-18 14:34:19
+14,card,38.7,Latte,Afternoon,Thu,False,Apr,4,4,2024-04-18 14:35:49
+17,card,38.7,Latte,Night,Thu,False,Apr,4,4,2024-04-18 17:44:15
+18,card,38.7,Cappuccino,Night,Thu,False,Apr,4,4,2024-04-18 18:21:05
+19,card,38.7,Hot Chocolate,Night,Thu,False,Apr,4,4,2024-04-18 19:39:51
+19,card,38.7,Hot Chocolate,Night,Thu,False,Apr,4,4,2024-04-18 19:40:48
+10,card,38.7,Latte,Morning,Fri,False,Apr,5,4,2024-04-19 10:10:36
+13,card,33.8,Americano with Milk,Afternoon,Fri,False,Apr,5,4,2024-04-19 13:11:47
+13,card,38.7,Cappuccino,Afternoon,Fri,False,Apr,5,4,2024-04-19 13:13:20
+13,card,38.7,Hot Chocolate,Afternoon,Fri,False,Apr,5,4,2024-04-19 13:58:54
+13,card,38.7,Cappuccino,Afternoon,Fri,False,Apr,5,4,2024-04-19 13:59:49
+18,card,38.7,Cocoa,Night,Fri,False,Apr,5,4,2024-04-19 18:23:19
+18,card,33.8,Americano with Milk,Night,Fri,False,Apr,5,4,2024-04-19 18:25:33
+12,card,33.8,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 12:08:35
+12,card,33.8,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 12:09:42
+13,card,28.9,Americano,Afternoon,Sat,True,Apr,6,4,2024-04-20 13:08:37
+13,card,33.8,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 13:09:47
+13,card,38.7,Hot Chocolate,Afternoon,Sat,True,Apr,6,4,2024-04-20 13:10:55
+14,card,38.7,Cappuccino,Afternoon,Sat,True,Apr,6,4,2024-04-20 14:44:18
+15,card,33.8,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 15:11:00
+15,card,32.82,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 15:22:40
+15,card,32.82,Americano with Milk,Afternoon,Sat,True,Apr,6,4,2024-04-20 15:49:25
+18,card,37.72,Cappuccino,Night,Sat,True,Apr,6,4,2024-04-20 18:27:41
+18,card,37.72,Cappuccino,Night,Sat,True,Apr,6,4,2024-04-20 18:28:46
+19,card,37.72,Latte,Night,Sat,True,Apr,6,4,2024-04-20 19:30:55
+11,card,37.72,Latte,Morning,Sun,True,Apr,7,4,2024-04-21 11:16:45
+14,card,27.92,Americano,Afternoon,Sun,True,Apr,7,4,2024-04-21 14:15:37
+11,card,27.92,Americano,Morning,Mon,False,Apr,1,4,2024-04-22 11:09:16
+11,card,32.82,Americano with Milk,Morning,Mon,False,Apr,1,4,2024-04-22 11:29:27
+19,card,37.72,Latte,Night,Mon,False,Apr,1,4,2024-04-22 19:39:04
+14,card,37.72,Cappuccino,Afternoon,Tue,False,Apr,2,4,2024-04-23 14:22:35
+14,card,32.82,Americano with Milk,Afternoon,Tue,False,Apr,2,4,2024-04-23 14:23:53
+14,card,37.72,Cappuccino,Afternoon,Tue,False,Apr,2,4,2024-04-23 14:24:57
+19,card,32.82,Americano with Milk,Night,Tue,False,Apr,2,4,2024-04-23 19:42:27
+19,card,32.82,Americano with Milk,Night,Tue,False,Apr,2,4,2024-04-23 19:43:26
+10,card,37.72,Latte,Morning,Wed,False,Apr,3,4,2024-04-24 10:19:38
+10,card,32.82,Americano with Milk,Morning,Wed,False,Apr,3,4,2024-04-24 10:21:27
+11,card,32.82,Americano with Milk,Morning,Wed,False,Apr,3,4,2024-04-24 11:23:46
+11,card,32.82,Americano with Milk,Morning,Wed,False,Apr,3,4,2024-04-24 11:33:26
+12,card,32.82,Americano with Milk,Afternoon,Wed,False,Apr,3,4,2024-04-24 12:39:09
+16,card,32.82,Americano with Milk,Afternoon,Wed,False,Apr,3,4,2024-04-24 16:39:07
+19,card,32.82,Americano with Milk,Night,Wed,False,Apr,3,4,2024-04-24 19:39:49
+19,card,37.72,Cappuccino,Night,Wed,False,Apr,3,4,2024-04-24 19:40:54
+10,card,27.92,Americano,Morning,Thu,False,Apr,4,4,2024-04-25 10:46:08
+15,card,37.72,Latte,Afternoon,Thu,False,Apr,4,4,2024-04-25 15:18:26
+17,card,27.92,Americano,Night,Thu,False,Apr,4,4,2024-04-25 17:09:43
+17,card,27.92,Americano,Night,Thu,False,Apr,4,4,2024-04-25 17:10:49
+10,card,37.72,Latte,Morning,Fri,False,Apr,5,4,2024-04-26 10:12:50
+12,card,37.72,Latte,Afternoon,Fri,False,Apr,5,4,2024-04-26 12:01:30
+13,card,37.72,Cappuccino,Afternoon,Fri,False,Apr,5,4,2024-04-26 13:31:28
+15,card,27.92,Americano,Afternoon,Fri,False,Apr,5,4,2024-04-26 15:32:35
+15,card,27.92,Americano,Afternoon,Fri,False,Apr,5,4,2024-04-26 15:33:33
+16,card,27.92,Cortado,Afternoon,Fri,False,Apr,5,4,2024-04-26 16:23:26
+16,card,27.92,Americano,Afternoon,Fri,False,Apr,5,4,2024-04-26 16:24:33
+19,card,37.72,Hot Chocolate,Night,Fri,False,Apr,5,4,2024-04-26 19:32:07
+19,card,37.72,Cocoa,Night,Fri,False,Apr,5,4,2024-04-26 19:33:30
+15,card,37.72,Cappuccino,Afternoon,Sat,True,Apr,6,4,2024-04-27 15:27:00
+10,card,37.72,Latte,Morning,Sun,True,Apr,7,4,2024-04-28 10:32:52
+12,card,37.72,Cappuccino,Afternoon,Sun,True,Apr,7,4,2024-04-28 12:30:09
+18,card,27.92,Americano,Night,Sun,True,Apr,7,4,2024-04-28 18:27:08
+18,card,27.92,Americano,Night,Sun,True,Apr,7,4,2024-04-28 18:28:11
+18,card,37.72,Latte,Night,Sun,True,Apr,7,4,2024-04-28 18:29:02
+11,card,27.92,Cortado,Morning,Mon,False,Apr,1,4,2024-04-29 11:26:31
+13,card,27.92,Americano,Afternoon,Mon,False,Apr,1,4,2024-04-29 13:27:56
+13,card,27.92,Cortado,Afternoon,Mon,False,Apr,1,4,2024-04-29 13:28:53
+13,card,27.92,Cortado,Afternoon,Mon,False,Apr,1,4,2024-04-29 13:53:35
+13,card,32.82,Americano with Milk,Afternoon,Mon,False,Apr,1,4,2024-04-29 13:54:24
+18,card,37.72,Cappuccino,Night,Mon,False,Apr,1,4,2024-04-29 18:37:48
+19,card,37.72,Cappuccino,Night,Mon,False,Apr,1,4,2024-04-29 19:12:33
+19,card,37.72,Cappuccino,Night,Mon,False,Apr,1,4,2024-04-29 19:13:37
+10,card,37.72,Latte,Morning,Tue,False,Apr,2,4,2024-04-30 10:16:41
+10,card,32.82,Americano with Milk,Morning,Tue,False,Apr,2,4,2024-04-30 10:34:52
+10,card,32.82,Americano with Milk,Morning,Tue,False,Apr,2,4,2024-04-30 10:35:47
+13,card,27.92,Americano,Afternoon,Tue,False,Apr,2,4,2024-04-30 13:41:52
+13,card,32.82,Americano with Milk,Afternoon,Tue,False,Apr,2,4,2024-04-30 13:42:59
+19,card,37.72,Cappuccino,Night,Tue,False,Apr,2,4,2024-04-30 19:19:18
+19,card,32.82,Americano with Milk,Night,Tue,False,Apr,2,4,2024-04-30 19:30:04
+19,card,37.72,Latte,Night,Tue,False,Apr,2,4,2024-04-30 19:31:20
